@@ -1,5 +1,7 @@
 # loco-controller-v1a
 
+NEW - Jan 2026, additional firmware examples and Handheld controller firmware
+
 The Loco Controller is designed to offer a simple upgrade of Dapol and other locomotives to battery power and wireless control. It is highly integrated, incorporating an ESP32-C6 dual core MCU (microcontroller Unit) module together with a motor driver, voltage booster, battery charger and input power conditioner all on a single double sided PCB. 
 
 The controller is designed as an exact replacement for the factory fitted DCC decoder adaptor installed in newer Dapol locomotives and installation consists of sliding out the factory PCB and replacing it with the controller. On the 58XX and B4 models the battery also slides in underneath the controller and is connected directly to the controller PCB.

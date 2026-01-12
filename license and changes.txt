@@ -6,3 +6,4 @@ You may redistribute and modify this documentation and make products using it un
 Changes
 -------
 2025-10 - First release (0.90)
+2026-01 - Add additional firmware examples (0.91)
